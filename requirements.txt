@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gTTS
+pyttsx3
+aiofiles
+python-multipart>=0.0.5
+typing-extensions>=4.5.0
+TTS
